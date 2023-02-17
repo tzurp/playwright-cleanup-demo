@@ -11,6 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.30.0",
-    "playwright-cleanup": "^0.0.3"
+    "playwright-cleanup": "^0.0.5"
   }
 }
