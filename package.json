@@ -1,0 +1,16 @@
+{
+  "name": "playwright-cleanup-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0",
+    "playwright-cleanup": "^0.0.3"
+  }
+}
